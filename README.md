@@ -139,7 +139,7 @@ Remote command parsing and live status output use dual circular ring buffers acr
       <img src="images/VehicleChassisTopView.jpg" alt="Chassis Overview" width="90%"/>
     </td>
     <td align="center" width="50%">
-      <b>Custom Power, Control, and IOT Boards</b><br/><br/>
+      <b>Custom Power, Control, LCD, and IOT Boards</b><br/><br/>
       <img src="images/Modules.jpg" alt="Power Board" width="90%"/>
     </td>
   </tr>
