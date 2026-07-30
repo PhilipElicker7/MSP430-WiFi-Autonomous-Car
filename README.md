@@ -1,4 +1,4 @@
-# Wireless Distributed Control & Autonomous Embedded System
+# MSP430 WiFi Autonomous Car
 
 A real-time, micro-controller-based closed-loop control system built on the **TI MSP430FR2355 MCU**[cite: 1]. The system incorporates multi-channel analog signal acquisition[cite: 1], deterministic timer interrupt scheduling[cite: 1], dual eUSCI UART ring-buffer wireless telemetry[cite: 1], and dynamic power management[cite: 1].
 
