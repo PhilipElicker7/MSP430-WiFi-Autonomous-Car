@@ -136,21 +136,21 @@ Remote command parsing and live status output use dual circular ring buffers acr
   <tr>
     <td align="center" width="50%">
       <b>Autonomous Car Chassis Overview</b><br/><br/>
-      <img src="assets/chassis.jpg" alt="Chassis Overview" width="90%"/>
+      <img src="images/VehicleChassisTopView.jpg" alt="Chassis Overview" width="90%"/>
     </td>
     <td align="center" width="50%">
-      <b>Custom Power & MOSFET Driver Board</b><br/><br/>
-      <img src="assets/power_board.jpg" alt="Power Board" width="90%"/>
+      <b>Custom Power, Control, and IOT Boards</b><br/><br/>
+      <img src="images/Modules.jpg" alt="Power Board" width="90%"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <b>LCD Status & Telemetry Output</b><br/><br/>
-      <img src="assets/lcd_display.jpg" alt="LCD Display" width="90%"/>
+      <img src="images/LCDScreen.jpg" alt="LCD Display" width="90%"/>
     </td>
     <td align="center" width="50%">
       <b>Underbody IR Line-Tracking Sensors</b><br/><br/>
-      <img src="assets/ir_sensors.jpg" alt="IR Sensor Array" width="90%"/>
+      <img src="images/IRSensorMounting.jpg" alt="IR Sensor Array" width="90%"/>
     </td>
   </tr>
 </table>
